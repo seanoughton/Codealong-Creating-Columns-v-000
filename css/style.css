@@ -72,3 +72,7 @@ figcaption {
 }
 
 /*    LAYOUT       */
+.wrapper {
+  width: 960px;
+  margin: auto;
+}
