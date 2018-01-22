@@ -92,4 +92,5 @@ figcaption {
 
 .col-3 {
   /*spans across all of the space*/
+  background: #ccc;
 }
