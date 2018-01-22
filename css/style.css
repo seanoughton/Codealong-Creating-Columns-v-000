@@ -99,3 +99,7 @@ figcaption {
   /*this is an attribute selector. it says, look for any element that has a class that contains the value "col-" inside of the class name do this  */
   margin: 2%;
 }
+
+.first {
+  margin: 2%
+}
