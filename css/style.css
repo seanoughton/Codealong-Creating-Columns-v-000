@@ -85,3 +85,7 @@ figcaption {
 .col-2 {
   /*spans 2/3 of the space */
 }
+
+.col-3 {
+  /*spans across all of the space*/
+}
