@@ -96,7 +96,11 @@ figcaption {
 }
 
 .clearfix:after {
-  
+  content: ".";
+  display: block;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 
