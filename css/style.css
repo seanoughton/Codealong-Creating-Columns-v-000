@@ -101,5 +101,6 @@ figcaption {
 }
 
 .first {
-  margin: 2%
+  margin: 0%;
+  /* this is to set the margin of the first column on the left to 0 */
 }
