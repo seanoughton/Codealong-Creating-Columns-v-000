@@ -94,3 +94,8 @@ figcaption {
   /*spans across all of the space*/
   background: #ccc;
 }
+
+[class*="col-"] {
+  /*this is an attribute selector. it says, look for any element that has a class that contais "col-"   */
+  margin: 2%;
+}
